@@ -11,6 +11,7 @@ public class ProductManagementRestApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ProductManagementRestApiApplication.class, args);
 		System.out.println("😂😂😂😂😂😂❤❤❤😒😒😒😒😎😎😎😎😎😢😢😢😢😢😢😊😊😊");
+		System.out.println("1st Change in application");
 	}
 	
 	@Bean
